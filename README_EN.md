@@ -55,7 +55,7 @@ Supports the formats commonly offered by e-book download sites:
 
 ```bash
 # Example with the conda py312 environment (Windows)
-D:/dev_tools/miniconda3/envs/py312/python.exe -m pip install -r requirements.txt
+D:/your/path/envs/py312/python.exe -m pip install -r requirements.txt
 ```
 
 PDF extraction uses **pymupdf** by default (required by the v2.3 spec; falls back to pypdf when absent).
