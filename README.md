@@ -63,7 +63,7 @@ PDF 提取默认使用 **pymupdf**（v2.3 规范要求；未安装时自动回�
 ### 常用命令
 
 ```bash
-PY=D:/dev_tools/miniconda3/envs/py312/python.exe
+PY=D:/your/path/envs/py312/python.exe
 
 # 1. 先查看可选的页/章节清单（不调 API）
 $PY book_to_mindmap.py book.epub --list
