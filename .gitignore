@@ -1,0 +1,10 @@
+# 本地会话状态
+.zcode/
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时产物
+*.tmp
+~$*
